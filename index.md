@@ -6,14 +6,43 @@ layout: home
     <link rel="stylesheet" href="/assets/css/style.css">
   </head>
   <body>
-  <div class="wrapper">
-      <h1>Mini Calendar</h1>
-      <div class="calendar-container">
-        <p class="month-name" id="month-name">April</p>
-        <p class="day-name" id="day-name">Friday</p>
-        <p class="day-number" id="day-number">20</p>
-        <p class="year" id="year">2020</p>
-      </div>
-    </div>
-	<script src="/assets/js/calander.js"></script>
+<div style="display: flex;flex-direction: column; justify-items: center; align-items: center">
+  <h1>ETN Solutions Private Limited</h1>
+
+  <div>
+    <img
+      src="https://github.com/ETN-Solutions/ETN-Solutions/assets/161805758/2682f077-7139-414b-9a6c-cf2efa606d8a"
+      alt="logo"
+      style="width: 400px"
+    />
+  </div>
+
+  <div>
+    <strong>ETN SOLUTIONS PVT LTD.</strong> is an IT consulting, outsourcing and
+    technology company founded and incorporated in India, UAE in 2016.
+  </div>
+  <br />
+  <div>
+    We are expertise in Payment Industry, Card Domain. We have spread our wings
+    in the business of Software development, Web Designing, E-commerce
+    solutions, Mobile Applications, Enterprise products.
+  </div>
+  <br />
+
+  <div>
+    Domain expertise in Enterprise applications, Financial Applications, Card
+    Management System(Debit/Credit/Prepaid/Closeloop), Reconciliation
+    System(VISA/MasterCard/JCB/CUP), SMS, Educational and Business Intelligence
+    applications.
+  </div>
+  <br />
+  <hr />
+  <div>
+    <img
+      src="https://skillicons.dev/icons?i=java,react,nextjs,dotnet,mysql,mongodb,flutter,php,figma"
+      alt="known-language"
+    />
+  </div>
+</div>
+
   </body>
