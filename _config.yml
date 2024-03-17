@@ -1,8 +1,8 @@
-title: My Doc Website
+title: ETN Solution Knowledge base
 description: A memory hole for all my codes
 theme: just-the-docs
 baseurl: ""
 url: "github.io"
 favicon_ico: "/assets/images/favicon.ico"
 aux_links:
-  Visit My Repo: https://github.com/sonukuldeep
+  Visit My Repo: https://github.com/ETN-Solutions
