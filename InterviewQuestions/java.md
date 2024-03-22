@@ -6,7 +6,7 @@ title: Java
 
 # JAVA
 
-### JAVA Questions To BE Asked 
+## JAVA Questions To BE Asked 
 
  1.What is the difference between JDK, JRE, and JVM?
  2.Explain the main principles of Object-Oriented Programming (OOP).
