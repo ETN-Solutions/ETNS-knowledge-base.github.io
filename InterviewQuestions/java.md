@@ -1,12 +1,12 @@
- ---
+---
 layout: home
 parent: Interview questions
-title: Java
+title: Java questions
 ---
 
-# JAVA
+## JAVA
 
-## JAVA Questions To BE Asked 
+### JAVA Questions To BE Asked 
 
  1.What is the difference between JDK, JRE, and JVM?
  2.Explain the main principles of Object-Oriented Programming (OOP).
@@ -52,3 +52,5 @@ title: Java
 18.What is Spring Boot and how does it simplify the development of Java applications?
 19.Explain the concept of microservices architecture and discuss how it can be implemented using Spring Cloud.
 20.Describe the use of Java Authentication and Authorization Service (JAAS) in securing Java applications.
+
+
