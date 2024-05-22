@@ -1,7 +1,7 @@
 ---
 layout: home
-parent: CodingStandard
-title: React-Js Coding Standard
+parent: Coding Standards
+title: React-Js Coding Standards
 ---
 
 # React Coding Standards

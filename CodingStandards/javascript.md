@@ -1,7 +1,7 @@
 ---
 layout: home
-parent: CodingStandard
-title: JavaScript-CodingStandard
+parent: Coding Standards
+title: JavaScript-CodingStandards
 ---
 
 # Javascript Guidelines

@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Coding Standard
+title: Coding Standards
 has_children: true
 ---

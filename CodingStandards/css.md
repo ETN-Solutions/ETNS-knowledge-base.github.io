@@ -1,6 +1,6 @@
 ---
 layout: home
-parent: CodingStandard
+parent: Coding Standards
 title: CSS-Coding-Standard
 ---
 
